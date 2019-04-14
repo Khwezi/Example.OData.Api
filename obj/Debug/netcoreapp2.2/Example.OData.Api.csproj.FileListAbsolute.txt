@@ -12,3 +12,6 @@ C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Debug\netcoreap
 C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Debug\netcoreapp2.2\Example.OData.Api.RazorAssemblyInfo.cs
 C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Debug\netcoreapp2.2\Example.OData.Api.RazorTargetAssemblyInfo.cache
 C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Debug\netcoreapp2.2\Example.OData.Api.csproj.CopyComplete
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\bin\Debug\netcoreapp2.2\Example.OData.Api.pdb
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Debug\netcoreapp2.2\Example.OData.Api.dll
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Debug\netcoreapp2.2\Example.OData.Api.pdb
