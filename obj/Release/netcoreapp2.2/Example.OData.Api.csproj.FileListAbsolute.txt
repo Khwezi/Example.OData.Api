@@ -1,0 +1,17 @@
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\bin\Release\netcoreapp2.2\Example.OData.Api.deps.json
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\bin\Release\netcoreapp2.2\Example.OData.Api.runtimeconfig.json
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\bin\Release\netcoreapp2.2\Example.OData.Api.runtimeconfig.dev.json
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\bin\Release\netcoreapp2.2\Example.OData.Api.dll
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\bin\Release\netcoreapp2.2\Example.OData.Api.pdb
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\bin\Release\netcoreapp2.2\FluentValidation.Person.dll
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\bin\Release\netcoreapp2.2\FluentValidation.Person.pdb
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Release\netcoreapp2.2\Example.OData.Api.csprojAssemblyReference.cache
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Release\netcoreapp2.2\Example.OData.Api.csproj.CoreCompileInputs.cache
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Release\netcoreapp2.2\Example.OData.Api.RazorAssemblyInfo.cache
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Release\netcoreapp2.2\Example.OData.Api.RazorAssemblyInfo.cs
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Release\netcoreapp2.2\Example.OData.Api.AssemblyInfoInputs.cache
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Release\netcoreapp2.2\Example.OData.Api.AssemblyInfo.cs
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Release\netcoreapp2.2\Example.OData.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Release\netcoreapp2.2\Example.OData.Api.csproj.CopyComplete
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Release\netcoreapp2.2\Example.OData.Api.dll
+C:\Users\Khwezi\source\repos\Example.OData\Example.OData.Api\obj\Release\netcoreapp2.2\Example.OData.Api.pdb
